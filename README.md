@@ -55,7 +55,6 @@
 - ClassTok(클래스톡) : Scrapy -> BeautifulSoup   
 <br/>
 
-![디비](https://user-images.githubusercontent.com/75402257/113553916-711a9c80-9633-11eb-8d57-7d6663a0f343.PNG)G)
 
 ### II. DataBase
 - Mysql (RDBMS): 검색/키워드 추천을 위한 인덱싱의 중요성
@@ -63,6 +62,7 @@
 - Backup DB에 관한 논의 필
 
 ![RRRRR](https://user-images.githubusercontent.com/75402257/111388988-9468c080-86f3-11eb-8f39-e59c8e5bf4b5.PNG)
+![디비](https://user-images.githubusercontent.com/75402257/113553916-711a9c80-9633-11eb-8d57-7d6663a0f343.PNG)
 
 ### III. Crawling Cycle
 
@@ -87,7 +87,7 @@
   - 차후 학습이 더 진행된 상태에서 Develop 논의
 
 <br/>
-![웹페이지연동](https://user-images.githubusercontent.com/75402257/113553313-8cd17300-9632-11eb-9da9-9d82d7c72305.PNG)  
+![웹페이지연동](https://user-images.githubusercontent.com/75402257/113555500-f99a3c80-9635-11eb-9eed-b92f82466cdc.PNG)
 
 ### 5-2. Web Service
 ![플라스크 구현](https://user-images.githubusercontent.com/75402257/113553372-a5418d80-9632-11eb-917c-9757a8b856c3.PNG)
