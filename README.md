@@ -55,7 +55,8 @@
 - ClassTok(클래스톡) : Scrapy -> BeautifulSoup   
 <br/>
 
-![CCCC](https://user-images.githubusercontent.com/75402257/111389073-b06c6200-86f3-11eb-86f0-117682482f4b.PNG)
+![디비](https://user-images.githubusercontent.com/75402257/113553916-711a9c80-9633-11eb-8d57-7d6663a0f343.PNG)G)
+
 ### II. DataBase
 - Mysql (RDBMS): 검색/키워드 추천을 위한 인덱싱의 중요성
 - Flask를 통한 서비스 구현을 위한 DB 연동 (업데이트)
@@ -77,7 +78,7 @@
    - 크롤링 시간을 기준으로 3일 전 데이터 삭제
    - 신규강좌 데이터 확인 후 업데이트
 
-## 5. Issue
+## 5. Service Implementation Method
 ### 5-1. keyword 분류
 - Mysql - like : DB, tag 컬럼 추가(구분자)
 - 카테고리 분류, 해시태그, 태그 같이 저장 -> DB (중복검색 가능성 염두에 두고 태그 나누기)
@@ -87,13 +88,14 @@
 
 <br/>
   
-### 5-2. 서비스 구현
+### 5-2. Web Service
 ![플라스크 구현](https://user-images.githubusercontent.com/75402257/113553372-a5418d80-9632-11eb-917c-9757a8b856c3.PNG)
 ![웹페이지연동](https://user-images.githubusercontent.com/75402257/113553313-8cd17300-9632-11eb-9da9-9d82d7c72305.PNG)
 - Flask를 이용해서 서비스 구현가능: 검색/추천 시스템
   - Flask - DB 연동
  
  
+ <br/>
 ![이후](https://user-images.githubusercontent.com/75402257/113553458-c6a27980-9632-11eb-8889-9bc50f1e979c.PNG)
 
 
