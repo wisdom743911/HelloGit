@@ -88,10 +88,13 @@
 <br/>
   
 ### 5-2. 서비스 구현
-
-![FF](https://user-images.githubusercontent.com/75402257/111388270-54550e00-86f2-11eb-9c8b-cb320b8f1b37.PNG)
+![플라스크 구현](https://user-images.githubusercontent.com/75402257/113553372-a5418d80-9632-11eb-917c-9757a8b856c3.PNG)
+![웹페이지연동](https://user-images.githubusercontent.com/75402257/113553313-8cd17300-9632-11eb-9da9-9d82d7c72305.PNG)
 - Flask를 이용해서 서비스 구현가능: 검색/추천 시스템
   - Flask - DB 연동
+ 
+ 
+![이후](https://user-images.githubusercontent.com/75402257/113553458-c6a27980-9632-11eb-8889-9bc50f1e979c.PNG)
 
 
 <br/>
