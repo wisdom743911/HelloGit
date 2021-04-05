@@ -53,11 +53,15 @@
 - Taling(탈잉) : Scrapy -> BeautifulSoup 으로 크롤링 방식 변경
    -(Category_1, Category_2 분류 -> 키워드검색)
 - ClassTok(클래스톡) : Scrapy -> BeautifulSoup   
+<br/>
 
+![CCCC](https://user-images.githubusercontent.com/75402257/111389073-b06c6200-86f3-11eb-86f0-117682482f4b.PNG)
 ### II. DataBase
 - Mysql (RDBMS): 검색/키워드 추천을 위한 인덱싱의 중요성
 - Flask를 통한 서비스 구현을 위한 DB 연동 (업데이트)
 - Backup DB에 관한 논의 필
+
+![RRRRR](https://user-images.githubusercontent.com/75402257/111388988-9468c080-86f3-11eb-8f39-e59c8e5bf4b5.PNG)
 
 ### III. Crawling Cycle
 
@@ -83,39 +87,10 @@
 
 <br/>
   
-
-<br/>
-
-### II. DataBase
-
-![CCCC](https://user-images.githubusercontent.com/75402257/111389073-b06c6200-86f3-11eb-86f0-117682482f4b.PNG)
-
-- Mysql (RDBMS): 검색/키워드 추천을 위한 인덱싱의 중요성
-- Flask를 통한 서비스 구현을 위한 DB 연동 (업데이트)
-- Backup DB에 관한 논의 필
-
-![RRRRR](https://user-images.githubusercontent.com/75402257/111388988-9468c080-86f3-11eb-8f39-e59c8e5bf4b5.PNG)
-
-
-
-
-<br/>
-
-## 5. Issue
-
-- 키워드 검색 정확도 (모델 성능검사)
-- 
-
-### 5-1. keyword 분류
-
-![mysql 키워드](https://user-images.githubusercontent.com/75402257/111082179-46648900-854a-11eb-8266-45f7414260c0.PNG)
-<br/>
-
-  - 
 ### 5-2. 서비스 구현
 
 ![FF](https://user-images.githubusercontent.com/75402257/111388270-54550e00-86f2-11eb-9c8b-cb320b8f1b37.PNG)
-- Flask를 이용해서 서비스 구현가능: 검색/추천 시스템(키 값 별도로 빼기)
+- Flask를 이용해서 서비스 구현가능: 검색/추천 시스템
   - Flask - DB 연동
 
 
@@ -123,8 +98,8 @@
 
 ### Member / role
 
-- **고원진** / 탈잉, 클래스 101 웹크롤링, DB연동(Mysql),
-- **장지혜** / 탈잉, 클래스톡 웹크롤링, 웹서비스(Flask), 
+- **고원진** / 탈잉, 클래스 101 웹크롤링, DB연동(Mysql), DB 업데이트, 발표 및 검토
+- **장지혜** / 탈잉, 클래스톡 웹크롤링, 웹서비스(Flask), 발표자료 기획
 
 <br/>
 
