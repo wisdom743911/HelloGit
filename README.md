@@ -87,13 +87,17 @@
   - 차후 학습이 더 진행된 상태에서 Develop 논의
 
 <br/>
-  
+![웹페이지연동](https://user-images.githubusercontent.com/75402257/113553313-8cd17300-9632-11eb-9da9-9d82d7c72305.PNG)  
+
 ### 5-2. Web Service
 ![플라스크 구현](https://user-images.githubusercontent.com/75402257/113553372-a5418d80-9632-11eb-917c-9757a8b856c3.PNG)
-![웹페이지연동](https://user-images.githubusercontent.com/75402257/113553313-8cd17300-9632-11eb-9da9-9d82d7c72305.PNG)
+![바탕](https://user-images.githubusercontent.com/75402257/113555260-98726900-9635-11eb-824a-c277fbf3fd91.jpg)
+
 - Flask를 이용해서 서비스 구현가능: 검색/추천 시스템
   - Flask - DB 연동
  
+### 5-3. Model 성능평가
+![모델성능검사](https://user-images.githubusercontent.com/75402257/113555256-96a8a580-9635-11eb-952e-aa2a2646ef8a.jpg)
  
  <br/>
 ![이후](https://user-images.githubusercontent.com/75402257/113553458-c6a27980-9632-11eb-8889-9bc50f1e979c.PNG)
@@ -134,8 +138,3 @@
   - URL: https://www.mobiinside.co.kr/2020/12/24/hobby-platform/
 
 
-
-##### 논문 및 보고서
--
-
--
