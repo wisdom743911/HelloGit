@@ -1,11 +1,14 @@
 ![메인](https://user-images.githubusercontent.com/75402257/113556709-d3759c00-9637-11eb-9c71-286c13806d29.jpg)
+
 <br/>
+
 # 취미클래스 플랫폼(Class 101, 탈잉, 클래스톡) 별 비교
 ## : 취미생활∙자기계발 트렌드를 반영한 검색/추천시스템
 #### CRAWLING PROJECT
 #### - Period: 2021. 02. 22. ~ 2021. 03.19.
 #### - 인원 : 2명
 #### - Member: 고원진, 장지혜
+
 <br/>
 
 ## 1. Intro
@@ -13,12 +16,16 @@
 
 ![취미](https://user-images.githubusercontent.com/75402257/109493201-7b46f980-7acf-11eb-8855-40666dccf54e.png)
 
+<br/>
+
 - 주 52시간 근무제 시행으로 늘어난 여가시간을 풍요롭게 하는 취미플랫폼의 급성장 
 
 - 코로나로 늘어난 '집콕족'들의 라이프스타일 변화
 
 ![dd](https://user-images.githubusercontent.com/75402257/113546956-fd26c700-9627-11eb-90a3-3178cd817761.PNG)
  
+<br/>
+
 ### 1-2. 취미생활/자기계발 플랫폼의 성장세
 
 - 다양한 관심사와 자기계발을 돕는 온라인/오프라인 플랫폼 수요증가
@@ -88,7 +95,10 @@
   - 차후 학습이 더 진행된 상태에서 Develop 논의
 
 <br/>
-![웹페이지연동](https://user-images.githubusercontent.com/75402257/113555500-f99a3c80-9635-11eb-9eed-b92f82466cdc.PNG)
+
+![웹페이지연동](https://user-images.githubusercontent.com/75402257/113761280-3e1afa80-9752-11eb-8bd4-79e9a0197846.PNG)
+
+<br/>
 
 ### 5-2. Web Service
 ![플라스크 구현](https://user-images.githubusercontent.com/75402257/113553372-a5418d80-9632-11eb-917c-9757a8b856c3.PNG)
