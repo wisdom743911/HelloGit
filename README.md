@@ -2,12 +2,13 @@
 <br/>
 
 
+
 ![메인](https://user-images.githubusercontent.com/75402257/113556709-d3759c00-9637-11eb-9c71-286c13806d29.jpg)
 
 <br/>
 
 # 취미클래스 플랫폼(Class 101, 탈잉, 클래스톡) 별 비교
-## : 취미생활∙자기계발 트렌드를 반영한 검색/추천시스템
+## : 취미생활∙자기계발 트렌드를 반영한 검색서비스 제공
 #### CRAWLING PROJECT
 #### - Period: 2021. 02. 22. ~ 2021. 03.19.
 #### - 인원 : 2명
@@ -48,7 +49,7 @@
 ## 2. Goals
 
 - 세 개 플랫폼 데이터를 Mysql DB 저장 및 키워드 분류
-- 소비자가 필요한 클래스 정보를 키워드 검색을 통해 얻을 수 있는 검색엔진 구현
+- 소비자가 필요한 클래스 정보를 키워드 검색을 통해 얻을 수 있는 검색서비스 웹으로 구현
 - Flask를 이용한 웹 서비스 제공
 
 ## 3. Result
@@ -59,11 +60,13 @@
 <br/>
 
 ## 4. Process
+- 주제 선정
+- 프로젝트 목적 논의
 - 데이터 수집 (Cronta을 이용한 웹 사이트 크롤링)
 - DB 저장 : SQLAlchemy -> Mysql(RDBMS) 
 - 데이터 성능검사 (검색키워드)
 - Flask - DB 연동 
-- 
+
 ### I. Crawling Method1
 - Class101(클래스101) : selenium -> graphql post방식 requests
 - Taling(탈잉) : Scrapy -> BeautifulSoup 으로 크롤링 방식 변경
@@ -101,11 +104,13 @@
 
 ### 5-1. keyword 분류
 
+- 형태소 분류의 필요성 논의
+  - 차후 학습진행 후 Develop 논의
 - Mysql - like : DB, tag 컬럼 추가(구분자)
 - 카테고리 분류, 해시태그, 태그 같이 저장 -> DB (중복검색 가능성 염두에 두고 태그 나누기)
 - 검색 정확도 (MultinomialNB 모델 사용, 모델 성능검사 test 진행)
 - 정확한 키워드 검색을 위한 자연어 처리 및 문자열 형태소분류 필요성
-  - 차후 학습이 더 진행된 상태에서 Develop 논의
+  - 차후 학습이 더 진행된 상태에서 Develop 논의 
 
 <br/>
 
@@ -128,6 +133,9 @@
 
 ![모델성능검사](https://user-images.githubusercontent.com/75402257/113555256-96a8a580-9635-11eb-952e-aa2a2646ef8a.jpg)
  
+- 과적합 가능성 염두 
+- 카테고리 분류를 세분화하여 재분류 후  Model 성능평가 계획 
+
  <br/>
 
 ![이후](https://user-images.githubusercontent.com/75402257/113556165-09665080-9637-11eb-824c-889624fa6923.PNG)
@@ -167,3 +175,5 @@
   - URL: https://www.mobiinside.co.kr/2020/12/24/hobby-platform/
 
 
+
+#### 본 프로젝트는 패스트캠퍼스 '데이터 사이언스 취업완성스쿨 16기', 크롤링 프로젝트로 진행되었습니다.
