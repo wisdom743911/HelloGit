@@ -9,6 +9,7 @@
 #### - 인원 : 2명
 #### - Member: 고원진, 장지혜
 
+- [서비스 구현] (http://findmyclass.ml/)
 <br/>
 
 ## 1. Intro
