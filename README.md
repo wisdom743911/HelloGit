@@ -1,3 +1,7 @@
+
+<br/>
+
+
 ![메인](https://user-images.githubusercontent.com/75402257/113556709-d3759c00-9637-11eb-9c71-286c13806d29.jpg)
 
 <br/>
@@ -9,7 +13,7 @@
 #### - 인원 : 2명
 #### - Member: 고원진, 장지혜
 
-- [서비스 구현] (http://findmyclass.ml/)
+
 <br/>
 
 ## 1. Intro
@@ -50,7 +54,9 @@
 ## 3. Result
 
 - DB 데이터 축적 및 신규강좌 업데이트
-- 웹 서비스 제공, 도메인 (findmyclass.ml) 생성
+- 웹 서비스 제공, 도메인 (http://findmyclass.ml/) 생성
+
+<br/>
 
 ## 4. Process
 - 데이터 수집 (웹 사이트 크롤링)
@@ -92,6 +98,7 @@
    - 신규강좌 데이터 확인 후 업데이트
 
 ## 5. Service Implementation Method
+
 ### 5-1. keyword 분류
 - Mysql - like : DB, tag 컬럼 추가(구분자)
 - 카테고리 분류, 해시태그, 태그 같이 저장 -> DB (중복검색 가능성 염두에 두고 태그 나누기)
@@ -107,6 +114,7 @@
 
 ### 5-2. Web Service
 
+- [웹사이트 구현] (http://findmyclass.ml/)
 <br/>
 
 ![플라스크 구현](https://user-images.githubusercontent.com/75402257/113553372-a5418d80-9632-11eb-917c-9757a8b856c3.PNG)
