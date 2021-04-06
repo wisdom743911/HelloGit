@@ -123,10 +123,6 @@
 
 <br/>
 
-![웹페이지연동](https://user-images.githubusercontent.com/75402257/113761280-3e1afa80-9752-11eb-8bd4-79e9a0197846.PNG)
-
-<br/>
-
 ### 5-2. Web Service
 ##
 - [웹사이트 구현] (http://findmyclass.ml/)
@@ -134,11 +130,20 @@
 
 ![플라스크 구현](https://user-images.githubusercontent.com/75402257/113553372-a5418d80-9632-11eb-917c-9757a8b856c3.PNG)
 
+
 <br/>
+
 
 ![바탕](https://user-images.githubusercontent.com/75402257/113555260-98726900-9635-11eb-824a-c277fbf3fd91.jpg)
 
 <br/>
+
+
+![웹페이지연동](https://user-images.githubusercontent.com/75402257/113761280-3e1afa80-9752-11eb-8bd4-79e9a0197846.PNG)
+
+<br/>
+
+
 
 ### 5-3. Model 성능평가
 ##
@@ -147,11 +152,15 @@
 - 과적합 가능성 염두 
 - 카테고리 분류를 세분화하여 재분류 후  Model 성능평가 계획 
 ##
+
  <br/>
+
 
 ![이후](https://user-images.githubusercontent.com/75402257/113556165-09665080-9637-11eb-824c-889624fa6923.PNG)
 
+
 <br/>
+
 
 ### Member / role
 ##
