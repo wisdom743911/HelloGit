@@ -64,12 +64,12 @@
 
 - 주제 선정
 - 프로젝트 목적 논의
-- 데이터 수집 (Cronta을 이용한 웹 사이트 크롤링)
+- 데이터 수집 (Crontab을 이용한 크롤링주기 설정, 자동화)
 - DB 저장 : SQLAlchemy -> Mysql(RDBMS) 
 - 데이터 성능검사 (검색키워드)
 - Flask - DB 연동 
 
-### I. Crawling Method1
+### I. Crawling Method
 ##
 - Class101(클래스101) : selenium -> graphql post방식 requests
 - Taling(탈잉) : Scrapy -> BeautifulSoup 으로 크롤링 방식 변경
