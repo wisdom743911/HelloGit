@@ -28,6 +28,7 @@
 
 ### 1-2. 취미생활/자기계발 플랫폼의 성장세
 
+
 - 다양한 관심사와 자기계발을 돕는 온라인/오프라인 플랫폼 수요증가
 
 - N잡러, 프리랜서 마켓으로서의 역할
@@ -70,6 +71,9 @@
 - Backup DB에 관한 논의 필
 
 ![RRRRR](https://user-images.githubusercontent.com/75402257/111388988-9468c080-86f3-11eb-8f39-e59c8e5bf4b5.PNG)
+
+<br/>
+
 ![디비](https://user-images.githubusercontent.com/75402257/113553916-711a9c80-9633-11eb-8d57-7d6663a0f343.PNG)
 
 ### III. Crawling Cycle
@@ -101,12 +105,17 @@
 <br/>
 
 ### 5-2. Web Service
+
+<br/>
+
 ![플라스크 구현](https://user-images.githubusercontent.com/75402257/113553372-a5418d80-9632-11eb-917c-9757a8b856c3.PNG)
 ![바탕](https://user-images.githubusercontent.com/75402257/113555260-98726900-9635-11eb-824a-c277fbf3fd91.jpg)
 
 <br/>
 
 ### 5-3. Model 성능평가
+<br/>
+
 ![모델성능검사](https://user-images.githubusercontent.com/75402257/113555256-96a8a580-9635-11eb-952e-aa2a2646ef8a.jpg)
  
  <br/>
