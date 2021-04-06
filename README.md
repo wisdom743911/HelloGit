@@ -24,10 +24,11 @@
 ![취미](https://user-images.githubusercontent.com/75402257/109493201-7b46f980-7acf-11eb-8855-40666dccf54e.png)
 
 ### 1-1. 취미생활/자기계발 수요증가
-
+##
 - 주 52시간 근무제 시행으로 늘어난 여가시간을 풍요롭게 하는 취미플랫폼의 급성장 
 
 - 코로나로 늘어난 '집콕족'들의 라이프스타일 변화
+<br/>
 
 ![dd](https://user-images.githubusercontent.com/75402257/113546956-fd26c700-9627-11eb-90a3-3178cd817761.PNG)
  
@@ -50,7 +51,7 @@
 
 - 세 개 플랫폼 데이터를 Mysql DB 저장 및 키워드 분류
 - 소비자가 필요한 클래스 정보를 키워드 검색을 통해 얻을 수 있는 검색서비스 웹으로 구현
-- Flask를 이용한 웹 서비스 제공
+- Database 관리 및 업데이트(실시간성 반영)
 
 ## 3. Result
 
@@ -83,11 +84,15 @@
 - Flask를 통한 서비스 구현을 위한 DB 연동 (업데이트)
 - Backup DB에 관한 논의 필
 
+<br/>
+
 ![RRRRR](https://user-images.githubusercontent.com/75402257/111388988-9468c080-86f3-11eb-8f39-e59c8e5bf4b5.PNG)
 
 <br/>
 
 ![디비](https://user-images.githubusercontent.com/75402257/113553916-711a9c80-9633-11eb-8d57-7d6663a0f343.PNG)
+
+<br/>
 
 ### III. Crawling Cycle
 ##
@@ -102,6 +107,8 @@
 - 신규강좌 부분 추가
    - 크롤링 시간을 기준으로 3일 전 데이터 삭제
    - 신규강좌 데이터 확인 후 업데이트
+
+<br/>
 
 ## 5. Service Implementation Method
 ### 5-1. keyword 분류
