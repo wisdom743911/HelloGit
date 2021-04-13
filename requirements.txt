@@ -1,0 +1,11 @@
+ipython
+jupyter
+pandas
+requests
+bs4
+scrapy
+sqlalchemy
+flask
+time
+
+
